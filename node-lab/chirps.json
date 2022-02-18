@@ -1,0 +1,73 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@NICHOLEMCGREW 
+Bryantellius
+/
+tc-node-6
+Public
+Code
+Issues
+Pull requests
+1
+Actions
+Projects
+Wiki
+Security
+Insights
+tc-node-6/walkthroughs/node-lab/chirps.json
+@Bryantellius
+Bryantellius UPDATE: express walkthrough part 1
+Latest commit 8fdc00a 3 hours ago
+ History
+ 1 contributor
+31 lines (31 sloc)  800 Bytes
+   
+{
+  "chirps": [
+    {
+      "author": "Ben",
+      "content": "this is my chirp",
+      "date": "Thu Feb 17 2022 13:28:10 GMT-0600 (Central Standard Time)"
+    },
+    {
+      "author": "Tanner",
+      "content": "this is my chirp",
+      "date": "Thu Feb 17 2022 13:28:10 GMT-0600 (Central Standard Time)"
+    },
+    {
+      "author": "Cruz",
+      "content": "this is my chirp",
+      "date": "Thu Feb 17 2022 13:28:10 GMT-0600 (Central Standard Time)"
+    },
+    {
+      "author": "Michael",
+      "content": "this is my chirp",
+      "date": "Thu Feb 17 2022 13:28:10 GMT-0600 (Central Standard Time)"
+    },
+    {
+      "author": "Seth",
+      "content": "this is my chirp",
+      "date": "Thu Feb 17 2022 13:28:10 GMT-0600 (Central Standard Time)"
+    }
+  ],
+  "count": 5,
+  "title": "Chirps"
+}
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
